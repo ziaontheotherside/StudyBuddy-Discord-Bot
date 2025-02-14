@@ -75,3 +75,9 @@ Enter **StudyBuddy Music Bot**, a **Python-powered Discord bot** that **streams 
 ## 🔥 Why This Bot Exists  
 - Because **studying without music is just sad.** 😭  
 - But mainly because **coding is more fun when you build something that actually solves a problem—especially one that makes life easier (and way more fun) for you and your friends.**
+---
+### ⚠️ Disclaimer
+This bot is intended for **personal and educational use only**.  
+It uses the **YouTube API** to stream publicly available content but **does not host, download, or modify YouTube’s streams in any way**.  
+Users are responsible for ensuring compliance with YouTube’s **Terms of Service** and Discord’s **API guidelines** when using this bot.
+
